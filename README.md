@@ -1,5 +1,4 @@
-# PracticasIniciales_Practica4_DesarrolloWeb
-# Grupo 10
+# Practicas Iniciales, Practica4, Grupo 10
 ## 202200031 Edison Mauricio García Rodríguez
 ## 202202233 Matthew Emmanuel Reyes Melgar
 ## 202202481 Josué Nabí Hurtarte Pinto
